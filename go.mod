@@ -1,3 +1,3 @@
-module github.com/statusio/statusio-go
+module github.com/gsalingu/statusio-go
 
 go 1.13
