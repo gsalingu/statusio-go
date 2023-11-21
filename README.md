@@ -3,7 +3,7 @@ Go Status.io
 
 Go package for [Status.io](https://status.io)
 
-[![GoDoc](https://godoc.org/github.com/statusio/statusio-go?status.png)](https://godoc.org/github.com/statusio/statusio-go)
+[![GoDoc](https://godoc.org/github.com/gsalingu/statusio-go?status.png)](https://godoc.org/github.com/gsalingu/statusio-go)
 
 
 
